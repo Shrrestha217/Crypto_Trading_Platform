@@ -1,6 +1,4 @@
-# Crypto_Trading_Platform
-# 💹 Full-Stack Cryptocurrency Trading Platform
-
+# 💹 Crypto Trading Platform
 A secure and responsive cryptocurrency trading application built using **Java**, **Spring Boot**, and **React**. This platform provides real-time market data, wallet management features, AI chatbot support, and robust authentication — all designed to enhance the crypto trading experience.
 
 ---
