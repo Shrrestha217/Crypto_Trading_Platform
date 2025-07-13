@@ -1,12 +1,11 @@
 # 💹 Crypto Trading Platform
-A secure and responsive cryptocurrency trading application built using **Java**, **Spring Boot**, and **React**. This platform provides real-time market data, wallet management features, AI chatbot support, and robust authentication — all designed to enhance the crypto trading experience.
+A secure and responsive cryptocurrency trading application built using **Java**, **Spring Boot**, and **React**. This platform provides real-time market data, wallet management features, and robust authentication — all designed to enhance the crypto trading experience.
 
 ---
 
 ## 🚀 Features
 
 - 📊 **Real-Time Market Data** via [CoinGecko API](https://www.coingecko.com/)
-- 🤖 **AI Chatbot Integration** using [Gemini AI](https://deepmind.google/discover/blog/google-gemini-ai/)
 - 💼 **Secure Wallet Operations**:
   - Fund transfers
   - Withdrawals
@@ -30,7 +29,6 @@ A secure and responsive cryptocurrency trading application built using **Java**,
 | Backend        | Java, Spring Boot, Spring Security |
 | Database       | MySQL                        |
 | Payment APIs   | Razorpay, Stripe             |
-| AI Integration | Gemini Chatbot               |
 | Market Data    | CoinGecko API                |
 | Build Tools    | Maven, npm                   |
 
