@@ -1,0 +1,12 @@
+.authContainer{
+    background-image: url("../bg_bitcoin.jpg");
+    height: 95.5vh;
+    width: 200.5vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bgBlur{
+    backdrop-filter: blur(10px);
+}
